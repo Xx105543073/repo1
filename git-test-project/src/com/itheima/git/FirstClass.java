@@ -10,4 +10,8 @@ public class FirstClass {
         System.out.println("hello");
         System.out.println("hello");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
