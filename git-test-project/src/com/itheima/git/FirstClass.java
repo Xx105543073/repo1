@@ -9,9 +9,11 @@ public class FirstClass {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        //hello test
     }
     public void test(){
         int i=0;
         i+=10;
+        System.out.println(i);
     }
 }
