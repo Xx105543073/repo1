@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_bbs.iml" filepath="$PROJECT_DIR$/ssm_bbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_bbs_dao/ssm_bbs_dao.iml" filepath="$PROJECT_DIR$/ssm_bbs_dao/ssm_bbs_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_bbs_domain/ssm_bbs_domain.iml" filepath="$PROJECT_DIR$/ssm_bbs_domain/ssm_bbs_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_bbs_service/ssm_bbs_service.iml" filepath="$PROJECT_DIR$/ssm_bbs_service/ssm_bbs_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_bbs_web/ssm_bbs_web.iml" filepath="$PROJECT_DIR$/ssm_bbs_web/ssm_bbs_web.iml" />
+    </modules>
+  </component>
+</project>
